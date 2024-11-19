@@ -1,4 +1,4 @@
-# Black Friday, Cyber Monday Deals + Tech I Use
+# Black Friday, Cyber Monday Deals & Tech I Use
 
 Everything in this list are things I currently use or have used in the past. Wherever possible, I've provided a few different links for a product to check out where the best deals might be.
 
@@ -7,9 +7,9 @@ Everything in this list are things I currently use or have used in the past. Whe
 ## Categories
 - [Desk Setup](https://github.com/aneeshsoni/black-friday-cyber-monday-deals/edit/main/README.md#%EF%B8%8F-desk-setup)
   - [Desks](https://github.com/aneeshsoni/black-friday-cyber-monday-deals/edit/main/README.md#-desks)
-  - [Monitors](https://github.com/aneeshsoni/black-friday-cyber-monday-deals/edit/main/README.md#%EF%B8%8F-monitors)
-  - [Chairs](https://github.com/aneeshsoni/black-friday-cyber-monday-deals/edit/main/README.md#-chairs)
-  - Microphones
+  - [Monitors](#️-monitors)
+  - [Chairs](#-chairs)
+  - [Microphones](#️-monitors)
   - Audio Interface
   - Keyboards
   - Mice
@@ -72,5 +72,25 @@ Everything in this list are things I currently use or have used in the past. Whe
     <td><a href="https://amzn.to/40SGKdK">Steelcase Leap V2</a> (<a href="https://www.ebay.com/itm/134004247228">eBay Link</a>)</td>
     <td>This one is the easiest recommendation. Don't buy anything else. Get this and you'll never need another chair or have back issues due to poor posture. I've successfully recommended this to 10 people and each person has loved the chair.</td>
     <td>$300 (refurbished) - $1000+ (new)</td>
+</tr>
+</table>
+
+### 🎙️ Microphones
+<table width="100%">
+<tr>
+    <th width="25%">Item</th>
+    <th width="55%">Description</th>
+    <th width="20%">Price Range</th>
+</tr>
+<tr>
+    <td>
+      <a href="https://amzn.to/3OgH5Qg">
+        Logitech Blue Sona
+      </a>
+    </td>
+    <td>
+      Great XLR microphone with broadcast like sound quality. Also it just looks badass on a desk. FYI this will require phantom power (check out the audio interfaces section to learn more).
+    </td>
+    <td>$250+</td>
 </tr>
 </table>
