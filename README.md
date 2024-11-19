@@ -1,6 +1,6 @@
 # Black Friday and Cyber Monday Deals
 
-Everything in this list are things I currently use or have used in the past. I've tried my best at putting together a set of deals that are probably 
+Everything in this list are things I currently use or have used in the past.
 
 🚨 Bookmark this site and ⭐️ the GitHub repo for the latest updates
 
