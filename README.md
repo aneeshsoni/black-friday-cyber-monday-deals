@@ -5,8 +5,8 @@ Everything in this list are things I currently use or have used in the past. Whe
 🚨 Bookmark this site and ⭐️ the GitHub repo for the latest updates
 
 ## Categories
-- [Desk Setup](https://github.com/aneeshsoni/black-friday-cyber-monday-deals/edit/main/README.md#%EF%B8%8F-desk-setup)
-  - [Desks](https://github.com/aneeshsoni/black-friday-cyber-monday-deals/edit/main/README.md#-desks)
+- [Desk Setup](#️-desk-setup)
+  - [Desks](#-desks)
   - [Monitors](#️-monitors)
   - [Chairs](#-chairs)
   - [Microphones](#️-monitors)
