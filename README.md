@@ -7,6 +7,7 @@ Everything in this list is something I currently use or have used in the past. W
 Note: Some of these links are affiliate links so I'll get a kickback if you purchase through these referrals but feel free to search for them directly.
 
 ## Categories
+
 - [Desk Setup](#️-desk-setup)
   - [Monitors](#️-monitors)
   - [Desks](#-desks)
@@ -24,6 +25,7 @@ Note: Some of these links are affiliate links so I'll get a kickback if you purc
 ## 🖥️ Desk Setup
 
 ### 🖥️ Monitors
+
 <table width="100%">
 <tr>
     <th width="25%">Item</th>
@@ -38,6 +40,7 @@ Note: Some of these links are affiliate links so I'll get a kickback if you purc
 </table>
 
 ### 👨‍💻 Desks
+
 <table width="100%">
 <tr>
     <th width="25%">Item</th>
@@ -57,6 +60,7 @@ Note: Some of these links are affiliate links so I'll get a kickback if you purc
 </table>
 
 ### 🪑 Chairs
+
 <table width="100%">
 <tr>
     <th width="25%">Item</th>
@@ -71,6 +75,7 @@ Note: Some of these links are affiliate links so I'll get a kickback if you purc
 </table>
 
 ### 🎙️ Microphones
+
 <table width="100%">
 <tr>
     <th width="25%">Item</th>
@@ -102,6 +107,7 @@ Note: Some of these links are affiliate links so I'll get a kickback if you purc
 </table>
 
 ### 🎛️ Audio Interface
+
 <table width="100%">
 <tr>
     <th width="25%">Item</th>
@@ -122,6 +128,7 @@ Note: Some of these links are affiliate links so I'll get a kickback if you purc
 </table>
 
 ### ⌨️ Keyboard
+
 <table width="100%">
 <tr>
     <th width="25%">Item</th>
@@ -142,6 +149,7 @@ Note: Some of these links are affiliate links so I'll get a kickback if you purc
 </table>
 
 ### 🖱️ Mice
+
 <table width="100%">
 <tr>
     <th width="25%">Item</th>
@@ -150,18 +158,19 @@ Note: Some of these links are affiliate links so I'll get a kickback if you purc
 </tr>
 <tr>
     <td>
-      <a href="https://amzn.to/3YY5YF7">
-        Logitech MX Master 3S
+      <a href="https://amzn.to/46TbRbX">
+        Logitech MX Master 4
       </a>
     </td>
     <td>
-      Ergonomic, highly customizable mouse. Works via bluetooth and a 2.4GHz receiver as long as you don't get the Mac only edition (all editions work with a mac but the non-mac exclusive models also come with a 2.4GHz logitech receiver).
+      Ergonomic, highly customizable mouse. Works via bluetooth and an updated USB-C 2.4GHz receiver as long as you don't get the Mac only edition (all editions work with a Mac via bluetooth or the adapter but the Non-Mac exclusive models also come with a 2.4GHz logitech receiver).
     </td>
-    <td>$100</td>
+    <td>$119</td>
 </tr>
 </table>
 
 ### 🔊 Speakers
+
 <table width="100%">
 <tr>
     <th width="25%">Item</th>
@@ -206,6 +215,7 @@ Note: Some of these links are affiliate links so I'll get a kickback if you purc
 ## 💻 Laptops
 
 ###  MacBooks
+
 <table width="100%">
 <tr>
     <th width="25%">Item</th>
@@ -239,6 +249,7 @@ Note: Some of these links are affiliate links so I'll get a kickback if you purc
 ## 🎒 Backpacks
 
 ### 💻 + 📷 Tech and Camera Bags
+
 <table width="100%">
 <tr>
     <th width="25%">Item</th>
