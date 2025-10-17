@@ -50,7 +50,7 @@ Note: Some of these links are affiliate links so I'll get a kickback if you purc
 <tr>
     <td><a href="https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/">Uplift Desk V2</a></td>
     <td>Super sturdy adjustable sit-stand desk</td>
-    <td>$500+</td>
+    <td>$599+</td>
 </tr>
 <tr>
     <td><a href="https://www.autonomous.ai?rid=7fa0ae">Autonomous Smart Desk 2</a></td>
