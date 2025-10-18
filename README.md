@@ -84,14 +84,14 @@ Note: Some of these links are affiliate links so I'll get a kickback if you purc
 </tr>
 <tr>
     <td>
-      <a href="https://amzn.to/3OgH5Qg">
+      <a href="https://amzn.to/4qiiEDx">
         Logitech Blue Sona
       </a>
     </td>
     <td>
       Great XLR microphone with broadcast like sound quality. Also it just looks badass on a desk. FYI this will require phantom power (check out the audio interfaces section to learn more).
     </td>
-    <td>$250+</td>
+    <td>$379</td>
 </tr>
 <tr>
     <td>
