@@ -197,7 +197,7 @@ Note: Some of these links are affiliate links so I'll get a kickback if you purc
     <td>
       Bigger brother of the Sonos ERA 100 but with Dolby Atmos support and a larger sound stage.
     </td>
-    <td>$425</td>
+    <td>$479</td>
 </tr>
 <tr>
     <td>
