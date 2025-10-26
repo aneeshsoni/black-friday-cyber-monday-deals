@@ -1,4 +1,4 @@
-# Black Friday, Cyber Monday Deals & Tech I Use
+# 2025 Black Friday & Cyber Monday Deals + Tech I Use
 
 Everything in this list is something I currently use or have used in the past. Wherever possible, I've provided a few different links for a product to check out where the best deals might be.
 
