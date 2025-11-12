@@ -22,6 +22,7 @@ Note: Some of these links are affiliate links so I'll get a kickback if you purc
 - [Backpacks](#-backpacks)
   - [Tech and Camera Bags](#---tech-and-camera-bags)
 - [Storage and Networking](#-storage-and-networking)
+- [Accessories](#-accessories)
 
 ## 🖥️ Desk Setup
 
