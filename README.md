@@ -281,3 +281,7 @@ Note: Some of these links are affiliate links so I'll get a kickback if you purc
     <td>$279</td>
 </tr>
 </table>
+
+## 💽 Storage and Networking
+
+## 🔋 Accessories
